@@ -1,0 +1,10 @@
+ Volume in drive H is New Volume
+ Volume Serial Number is 102B-BC5F
+
+ Directory of H:\devops\MyProject
+
+03-11-2017  23:32    <DIR>          .
+03-11-2017  23:32    <DIR>          ..
+03-11-2017  23:32                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  229,544,792,064 bytes free
